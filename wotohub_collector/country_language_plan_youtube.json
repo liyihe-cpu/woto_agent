@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-09-08T06:49:07+00:00",
+  "scope": "estimated country order; followers 5000-10000; recent 30 days",
+  "countries": [
+    {
+      "country_code": "gb",
+      "estimated_rank": 7,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "fr",
+      "estimated_rank": 9,
+      "languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "country_code": "de",
+      "estimated_rank": 8,
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "country_code": "it",
+      "estimated_rank": 11,
+      "languages": [
+        "it",
+        "en"
+      ]
+    },
+    {
+      "country_code": "es",
+      "estimated_rank": 10,
+      "languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "country_code": "us",
+      "estimated_rank": 0,
+      "languages": [
+        "en",
+        "es"
+      ]
+    }
+  ]
+}

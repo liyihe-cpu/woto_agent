@@ -1,0 +1,24 @@
+# Local secrets and Python artifacts
+.env
+**/.env
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local runtime/browser state and generated logs
+wotohub_collector/state/
+*.log
+*.sqlite3
+*.db
+
+# Generated probe captures and run state
+wotohub_collector/run_state*.json
+wotohub_collector/*probe*.json
+wotohub_collector/*probe*.png
+wotohub_collector/*probe*.html
+wotohub_collector/inspection.*
+wotohub_collector/discovered_options.json
+wotohub_collector/search_response.json
+wotohub_collector/live_probe_result.json
+wotohub_collector/live_probe_vue_state.json
+wotohub_collector/vue_search_probe_result.json

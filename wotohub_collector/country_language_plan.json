@@ -1,0 +1,1631 @@
+{
+  "created_at": "2026-09-07T07:21:26+00:00",
+  "scope": "estimated country order; followers 5000-10000; recent 30 days",
+  "countries": [
+    {
+      "country_code": "us",
+      "estimated_rank": 0,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "br",
+      "estimated_rank": 1,
+      "languages": [
+        "pt",
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "in",
+      "estimated_rank": 2,
+      "languages": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "country_code": "id",
+      "estimated_rank": 3,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mx",
+      "estimated_rank": 4,
+      "languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "country_code": "jp",
+      "estimated_rank": 5,
+      "languages": [
+        "ja",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ph",
+      "estimated_rank": 6,
+      "languages": [
+        "en",
+        "tl"
+      ]
+    },
+    {
+      "country_code": "gb",
+      "estimated_rank": 7,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "de",
+      "estimated_rank": 8,
+      "languages": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "country_code": "fr",
+      "estimated_rank": 9,
+      "languages": [
+        "fr",
+        "en"
+      ]
+    },
+    {
+      "country_code": "es",
+      "estimated_rank": 10,
+      "languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "country_code": "it",
+      "estimated_rank": 11,
+      "languages": [
+        "it",
+        "en"
+      ]
+    },
+    {
+      "country_code": "tr",
+      "estimated_rank": 12,
+      "languages": [
+        "tr",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ca",
+      "estimated_rank": 13,
+      "languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "country_code": "au",
+      "estimated_rank": 14,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "kr",
+      "estimated_rank": 15,
+      "languages": [
+        "ko",
+        "en"
+      ]
+    },
+    {
+      "country_code": "th",
+      "estimated_rank": 16,
+      "languages": [
+        "th",
+        "en"
+      ]
+    },
+    {
+      "country_code": "vn",
+      "estimated_rank": 17,
+      "languages": [
+        "vi",
+        "en"
+      ]
+    },
+    {
+      "country_code": "pl",
+      "estimated_rank": 20,
+      "languages": [
+        "pl",
+        "en"
+      ]
+    },
+    {
+      "country_code": "nl",
+      "estimated_rank": 21,
+      "languages": [
+        "nl",
+        "en"
+      ]
+    },
+    {
+      "country_code": "sa",
+      "estimated_rank": 22,
+      "languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "country_code": "za",
+      "estimated_rank": 23,
+      "languages": [
+        "en",
+        "af"
+      ]
+    },
+    {
+      "country_code": "ng",
+      "estimated_rank": 24,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "pk",
+      "estimated_rank": 25,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bd",
+      "estimated_rank": 26,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "eg",
+      "estimated_rank": 27,
+      "languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ru",
+      "estimated_rank": 28,
+      "languages": [
+        "ru",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ua",
+      "estimated_rank": 29,
+      "languages": [
+        "uk",
+        "en"
+      ]
+    },
+    {
+      "country_code": "pe",
+      "estimated_rank": 30,
+      "languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "country_code": "cl",
+      "estimated_rank": 31,
+      "languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "country_code": "my",
+      "estimated_rank": 32,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sg",
+      "estimated_rank": 33,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "pt",
+      "estimated_rank": 34,
+      "languages": [
+        "pt",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ro",
+      "estimated_rank": 35,
+      "languages": [
+        "ro",
+        "en"
+      ]
+    },
+    {
+      "country_code": "be",
+      "estimated_rank": 36,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "se",
+      "estimated_rank": 37,
+      "languages": [
+        "sv",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ch",
+      "estimated_rank": 38,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "at",
+      "estimated_rank": 39,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "dk",
+      "estimated_rank": 40,
+      "languages": [
+        "da",
+        "en"
+      ]
+    },
+    {
+      "country_code": "no",
+      "estimated_rank": 41,
+      "languages": [
+        "no",
+        "en"
+      ]
+    },
+    {
+      "country_code": "fi",
+      "estimated_rank": 42,
+      "languages": [
+        "fi",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ie",
+      "estimated_rank": 43,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "nz",
+      "estimated_rank": 44,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ae",
+      "estimated_rank": 45,
+      "languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ma",
+      "estimated_rank": 46,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "dz",
+      "estimated_rank": 47,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ke",
+      "estimated_rank": 48,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tz",
+      "estimated_rank": 49,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gh",
+      "estimated_rank": 50,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ve",
+      "estimated_rank": 51,
+      "languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ec",
+      "estimated_rank": 52,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gt",
+      "estimated_rank": 53,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "do",
+      "estimated_rank": 54,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "co",
+      "estimated_rank": 55,
+      "languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "country_code": "ar",
+      "estimated_rank": 56,
+      "languages": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "country_code": "uy",
+      "estimated_rank": 57,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "py",
+      "estimated_rank": 58,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bo",
+      "estimated_rank": 59,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ad",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "af",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ag",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ai",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "al",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "am",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ao",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "as",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "aw",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "az",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ba",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bb",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bf",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bg",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bh",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bi",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bj",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bn",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bs",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bt",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bw",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "by",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "bz",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cf",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cg",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ci",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cm",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cn",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cr",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cu",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cv",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cy",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "cz",
+      "estimated_rank": 10000,
+      "languages": [
+        "cs",
+        "en"
+      ]
+    },
+    {
+      "country_code": "dj",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "dm",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ee",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "eh",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "er",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "et",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "fj",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ga",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gd",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ge",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gf",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gm",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gn",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gp",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gq",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gr",
+      "estimated_rank": 10000,
+      "languages": [
+        "el",
+        "en"
+      ]
+    },
+    {
+      "country_code": "gu",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "gy",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "hk",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "hn",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "hr",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ht",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "hu",
+      "estimated_rank": 10000,
+      "languages": [
+        "hu",
+        "en"
+      ]
+    },
+    {
+      "country_code": "il",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "iq",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ir",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "is",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "jm",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "jo",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "kg",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "kh",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ki",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "kn",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "kp",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "kw",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ky",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "kz",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "la",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "lb",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "lc",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "li",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "lk",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "lr",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ls",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "lt",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "lu",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "lv",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ly",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mc",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "md",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mg",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mh",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mk",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ml",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mm",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mn",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mo",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mq",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mr",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mt",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mu",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mv",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mw",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "mz",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "na",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "nc",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ne",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ni",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "np",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "nr",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "nu",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "om",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "pa",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "pf",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "pg",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "pr",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ps",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "qa",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "rs",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "rw",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sb",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sc",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sd",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "si",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sk",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sl",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sm",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sn",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "so",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sr",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sv",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sy",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "sz",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tc",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tg",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tj",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tm",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tn",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tt",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tv",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "tw",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ug",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "uz",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "va",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "vg",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "vi",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "vu",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ws",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "ye",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "zm",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "zw",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "country_code": "‎fro",
+      "estimated_rank": 10000,
+      "languages": [
+        "en",
+        "es"
+      ]
+    }
+  ]
+}

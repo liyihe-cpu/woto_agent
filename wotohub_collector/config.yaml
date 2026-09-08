@@ -1,0 +1,18 @@
+browser:
+  channel: msedge
+  headless: false
+  slow_mo_ms: 0
+  viewport: { width: 1440, height: 980 }
+timing:
+  query_delay_ms: 1200
+  page_delay_ms: 900
+  navigation_timeout_ms: 30000
+  retries: 3
+filters:
+  follower_min: 5000
+  follower_max: 10000
+  span: 5000           # 初始粉丝跨度：5k 起步，触发 1 万封顶时自动降档(5k->1k->500->250->二分)
+  recent_days: 30
+  countries: all       # all, or a YAML list: [us, br, jp]
+  maximum_count: 10000
+selectors: {}
