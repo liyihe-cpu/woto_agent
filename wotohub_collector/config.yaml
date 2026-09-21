@@ -8,6 +8,12 @@ timing:
   page_delay_ms: 900
   navigation_timeout_ms: 30000
   retries: 3
+low_frequency:
+  enabled: true
+  query_interval_seconds: [5, 8]
+  page_interval_seconds: [8, 15]
+  task_cooldown_seconds: [300, 600]
+  daily_max_query_pages: 300
 filters:
   follower_min: 5000
   follower_max: 10000
